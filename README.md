@@ -31,3 +31,8 @@ docker run -d --net host \
 At the moment, it is not working as expected especially if you are behind a firewall.
 
 Working on it ...
+
+
+
+## NOTES
+* if using proxychains, you have to modify proxychains.confsdfg accordingly
