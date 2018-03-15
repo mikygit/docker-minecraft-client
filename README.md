@@ -5,9 +5,12 @@ This project aims to provide a minecraft client running in docker containers, ev
 It's based on docker image [Oracle Java 8 (and 7) with GLIBC 2.23 over AlpineLinux](https://hub.docker.com/r/anapsix/alpine-java/)
 
 
+
 ## BUILDING
 
 docker build [--build-arg PROXY_URL=$YOUR_PROXY_URL] -t minecraft-client .
+
+
 
 ## RUNNING
 
