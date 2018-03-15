@@ -1,1 +1,3 @@
 # docker-minecraft-client
+
+This project aims to provide a minecraft client running in docker containers, even for users behind a firewall ...
